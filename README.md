@@ -1,6 +1,8 @@
 # love_as_an_act
 repository of a captive page developed for the workshop "Packing and Unpacking Care as a Framework for Building Collective Tools and Infrastructures" held by Meike Hardt
 
+<img src="hdsc_day10_29.jpeg" width=80%/>
+
 This <a href="https://maddagh.github.io/love_as_an_act/">html page</a> is a captive page developed for the workshop "Packing and Unpacking Care as a Framework for Building Collective Tools and Infrastructures" held by Meike Hardt.<br>
 
 It was originally accessible only by connecting to an independent hotspot hidden in a vineyard somewhere in the netherlands' countryside.
